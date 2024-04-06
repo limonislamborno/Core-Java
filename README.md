@@ -1,2 +1,0 @@
-# Core-Java
-Full Course
